@@ -1,0 +1,5 @@
+{
+  "module-/markup/name.jade": "module-{%= name %}/{%= name %}.jade",
+  "module-/script/name.js": "module-{%= name %}/{%= name %}.js",
+  "module-/styles/name.styl": "module-{%= name %}/{%= name %}.styl"
+}
