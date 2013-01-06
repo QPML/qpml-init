@@ -15,14 +15,10 @@ QPMLを使ったプロジェクトのテンプレートを[gruntjs/grunt-init](h
 
 ## テンプレート
 
-### h5bp
+- qpml-pc / PC用
+- qpml-mobile / スマートフォン用
+- qpml-rwd / レスポンシブウェブ用テンプレート
 
-[HTML5
-Boilerplate](http://html5boilerplate.com/)を利用したQPML用のテンプレートを生成します。
-
-### skelton
-
-[Skeleton](http://www.getskeleton.com/)を利用したQPML用のテンプレートを生成します。
 
 ## 利用方法
 
@@ -32,13 +28,11 @@ Boilerplate](http://html5boilerplate.com/)を利用したQPML用のテンプレ�
 
 または本レポジトリ内のディレクトリを`~/.grunt-init/`内にコピーしておくと:
 
-`grunt-init h5bp`
+- `grunt-init qpml-pc`
+- `grunt-init qpml-mobile`
+- `grunt-init qpml-rwd`
 
-でHTML5 Boilerplateを利用したテンプレートを
-
-`grunt-init skelton`
-
-でSkeletonを利用したテンプレートを生成できます。
+上記の例のようにそれぞれのディレクトリ名でコマンドを実行できるようになります。
 
 **注意:
 コマンドを実行するディレクトリ内のすべてのファイル、ディレクトリは上書きされてしまう可能性があります。必ず空のディレクトリで実行してください。**
