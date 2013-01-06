@@ -18,7 +18,7 @@ QPMLを使ったプロジェクトのテンプレートを[gruntjs/grunt-init](h
 - qpml-pc / PC用
 - qpml-mobile / スマートフォン用
 - qpml-rwd / レスポンシブウェブ用テンプレート
-
+- qpml-module / **開発者用** qpmlのモジュールを生成用テンプレート
 
 ## 利用方法
 
